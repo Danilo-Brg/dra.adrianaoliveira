@@ -1,0 +1,14 @@
+LANDING PAGE — DRA. ADRIANA OLIVEIRA
+
+Arquivos:
+- index.html: página responsiva, pronta para revisão e publicação.
+- assets/: fotografias otimizadas e logomarca em SVG.
+
+IMPORTANTE ANTES DE PUBLICAR
+1. Abra index.html e procure por: const WHATSAPP_NUMBER = "";
+2. Substitua o conteúdo vazio pelo número oficial da clínica, incluindo código do país e DDD, apenas dígitos (ex.: 55DD9XXXXXXXX — formato ilustrativo, não é um número real).
+3. A logomarca anexada como imagem não estava disponível como arquivo separado no ambiente de edição. Por isso, o arquivo assets/logo-adriana.svg é uma recriação tipográfica provisória inspirada no nome e nas cores da marca. Substitua-o pela logo oficial transparente para manter fidelidade total.
+4. Revise nome profissional, credenciais, habilitações, dados de contato e conformidade com as normas do CFO antes de publicar.
+5. Publique o conteúdo da pasta mantendo a estrutura de arquivos. Não é necessário framework nem instalação.
+
+Os links de agendamento abrem o WhatsApp com mensagem pré-preenchida. Os botões de agendamento abrem uma conversa diretamente com o WhatsApp oficial da clínica, com mensagem pré-preenchida.
